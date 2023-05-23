@@ -1,0 +1,43 @@
+/* CSS file   */
+/* --thelooks */
+/* Visualization */
+/* Drapes--Carpet--Paint */
+
+
+
+.titleContainer {
+ border: none;
+
+}
+
+.mainTitle {
+  font-family: Arial;
+  font-size: 32px;
+  font-weight: bold;
+  color: pink;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+  
+}
+
+.text {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  color: palevioletred;
+  margin-top: 0;
+
+}
+.picture {
+  height: 320px;
+  width: 300px;
+ 
+}
+
+
+
+.boxContainer {
+  
+  
+}
